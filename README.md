@@ -9,7 +9,7 @@ Git과 GitHub 개념을 정리한 HTML 문서입니다.
 
 ## 실행 방법
 
-git-notes.html을 브라우저에서 엽니다.
+git-notes.html을 브라우저에서 열어 노트 제목, Git GitHub 설명, 기록 순서를 확인합니다.
 
 ## 파일 구조
 
